@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Canción 1 - Artista 1
+ruta/cancion1.mp3
+#EXTINF:-1,Canción 2 - Artista 2
+ruta/cancion2.mp3
+#EXTINF:-1,Canción 3 - Artista 3
+ruta/cancion3.mp3
+#EXTINF:-1,Canción 4 - Artista 4
+ruta/cancion4.mp3
+#EXTINF:-1,Canción 5 - Artista 5
+ruta/cancion5.mp3
+#EXTINF:-1,Canción 6 - Artista 6
+ruta/cancion6.mp3
+#EXTINF:-1,Canción 7 - Artista 7
+ruta/cancion7.mp3
+#EXTINF:-1,Canción 8 - Artista 8
+ruta/cancion8.mp3
+#EXTINF:-1,Canción 9 - Artista 9
+ruta/cancion9.mp3
+#EXTINF:-1,Canción 10 - Artista 10
+ruta/cancion10.mp3

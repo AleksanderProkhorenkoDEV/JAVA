@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Lista de reproducción</title>
+    <trackList>
+        <track>
+            <location>ruta/cancion1.mp3</location>
+            <title>Canción 1 - Artista 1</title>
+            <duration>240000</duration>
+        </track>
+        <track>
+            <location>ruta/cancion2.mp3</location>
+            <title>Canción 2 - Artista 2</title>
+            <duration>180000</duration>
+        </track>
+        <track>
+            <location>ruta/cancion3.mp3</location>
+            <title>Canción 3 - Artista 3</title>
+            <duration>300000</duration>
+        </track>
+        <track>
+            <location>ruta/cancion4.mp3</location>
+            <title>Canción 4 - Artista 4</title>
+            <duration>220000</duration>
+        </track>
+        <track>
+            <location>ruta/cancion5.mp3</location>
+            <title>Canción 5 - Artista 5</title>
+            <duration>260000</duration>
+        </track>
+        <track>
+            <location>ruta/cancion6.mp3</location>
+            <title>Canción 6 - Artista 6</title>
+            <duration>190000</duration>
+        </track>
+        <track>
+            <location>ruta/cancion7.mp3</location>
+            <title>Canción 7 - Artista 7</title>
+            <duration>280000</duration>
+        </track>
+        <track>
+            <location>ruta/cancion8.mp3</location>
+            <title>Canción 8 - Artista 8</title>
+            <duration>210000</duration>
+        </track>
+        <track>
+            <location>ruta/cancion9.mp3</location>
+            <title>Canción 9 - Artista 9</title>
+            <duration>240000</duration>
+        </track>
+        <track>
+            <location>ruta/cancion10.mp3</location>
+            <title>Canción 10 - Artista 10</title>
+            <duration>270000</duration>
+        </track>
+    </trackList>
+</playlist>
+
