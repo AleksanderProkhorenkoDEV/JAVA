@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Academia","l":"Asignatura"},{"p":"relacionejerciciossencillosi","l":"Circulo"},{"p":"relacionejerciciossencillosi","l":"Ejercicio1"},{"p":"Academia","l":"Ejercicio2"},{"p":"Academia","l":"Estudiante"},{"p":"relacionejerciciossencillosi","l":"Punto"}];updateSearchResults();
